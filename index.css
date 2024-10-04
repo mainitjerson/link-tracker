@@ -16,11 +16,14 @@ label{
     color: #5f9341;
     font-weight: 900;
 }
-
+.btn-container{
+    display: flex;
+    justify-content: space-between;
+}
 button {
     background: #5f9341;
     color: white;
-    padding: 10px 25px;
+    padding: 10px 20px;
     border: 1px solid #5f9341;
     font-weight: bold;
 }
